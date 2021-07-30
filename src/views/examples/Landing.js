@@ -81,11 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                      Being professional in software that will allow you to combine your background experience to provide fit solutions in many fields{" "}
+                        <span></span>
                       </h1>
                       <p className="lead text-white">
-                      Being professional in software that will allow you to combine your background experience to provide fit solutions in many fields
+                      
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -480,7 +480,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -494,7 +494,7 @@ class Landing extends React.Component {
                   points="2560 0 2560 100 0 100"
                 />
               </svg>
-            </div>
+            </div> */}
           </section>
           {/* <section className="section section-lg">
             <Container>
@@ -715,7 +715,7 @@ class Landing extends React.Component {
           </section> */}
           <section className="section section-lg bg-gradient-default">
             <Container className="pt-lg pb-300">
-              <Row className="text-center justify-content-center">
+              {/* <Row className="text-center justify-content-center">
                 <Col lg="10">
                   <h2 className="display-3 text-white">Build something</h2>
                   <p className="lead text-white">
@@ -725,7 +725,7 @@ class Landing extends React.Component {
                     to low ice.
                   </p>
                 </Col>
-              </Row>
+              </Row> */}
               {/* <Row className="row-grid mt-5">
                 <Col lg="4">
                   <div className="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
@@ -760,7 +760,7 @@ class Landing extends React.Component {
               </Row> */}
             </Container>
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -774,7 +774,7 @@ class Landing extends React.Component {
                   points="2560 0 2560 100 0 100"
                 />
               </svg>
-            </div>
+            </div> */}
           </section>
           {/* <section className="section section-lg pt-lg-0 section-contact-us">
             <Container>
